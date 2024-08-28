@@ -77,3 +77,15 @@ a:hover {
   color: #888;
   margin: 0;
 }
+
+.random-outfit div {
+  display: inline-block;
+  margin: 10px;
+}
+
+.random-outfit img {
+  max-width: 100px;
+  height: auto;
+  border-radius: 8px;
+}
+
