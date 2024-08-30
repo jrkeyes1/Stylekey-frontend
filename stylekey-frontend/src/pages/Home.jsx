@@ -10,7 +10,7 @@ function Home() {
   const [editingItem, setEditingItem] = useState(null);
   const [formData, setFormData] = useState({ name: '', category: '', imageUrl: '' });
 
-  // Fetch items from your backend
+  // Fetch items from backend
   useEffect(() => {
     setLoading(true);
     axios.get('http://localhost:5000/api/items')
