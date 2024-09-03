@@ -1,6 +1,6 @@
 # StyleKey
 
-StyleKey is a virtual closet application that allows users to manage their wardrobe digitally. The app enables users to add, view, filter, and delete items in their closet and also offers a feature to generate random outfits using images from an external API.
+StyleKey is a virtual closet application that allows wardrobe to be managed digitally. The app enables users to add, view, filter, and delete items in their closet and also offers a feature to generate random outfits.
 
 ## Features
 
