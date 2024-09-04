@@ -5,7 +5,7 @@ StyleKey is a virtual closet application that allows wardrobe to be managed digi
 ## Features
 
 - **Add Items:** Add new clothing items to your virtual closet.
-- **View Items:** Display all items in a chic grid layout with options to filter by category (Tops, Bottoms, Shoes).
+- **View Items:** Display all items in a grid layout with options to filter by category (Tops, Bottoms, Shoes).
 - **Delete Items:** Remove items from your closet easily with a single click.
 - **Random Outfit Generator:** Generate a random outfit using images fetched from the Unsplash API.
 
