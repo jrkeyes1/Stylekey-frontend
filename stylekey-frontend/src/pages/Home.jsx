@@ -36,7 +36,7 @@ function Home() {
 
   return (
     <div className="Home">
-      <h1 className="app-title">My Chic Closet</h1>
+      <h1 className="app-title">StyleKey</h1>
 
       {/* Filter Buttons */}
       <div className="filter-buttons">
